@@ -2,6 +2,7 @@ const listPlaylist = [
   {
     name: "V-Pop: The A-List",
     creator: "Zing MP3",
+    path: "./assets/music/listSong1/song1.mp3",
     image: "/assets/images/playlists/playlist1.jpg",
   },
   {
